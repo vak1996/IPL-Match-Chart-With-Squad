@@ -1,0 +1,83 @@
+RCB
+<td>Faf du Plessis (c)</td>
+<td>Virat Kohli</td>
+<td>Glenn Maxwell</td>
+<td>Dinesh Karthik (wk)</td>
+<td>Mahipal Lomror</td>
+<td>Anuj Rawat</td>
+<td>Shahbaz Ahmed</td>
+<td>WaninduHasaranga</td>
+<td>Harshal Patel</td>
+<td>Mohammed Siraj</td>
+<td>Wayne Parnell</td>
+
+
+SRH
+<td>Harry Brook</td>
+<td>Mayank Agarwal</td>
+<td>Rahul Tripathi</td>
+<td>Aiden Markram (c)</td>
+<td>Abhishek Sharma</td>
+<td>Heinrich Klaasen (wk)</td>
+<td>Washington Sundar</td>
+<td>Marco Jansen</td>
+<td>Mayank Markande</td>
+<td>Bhuvneshwar Kumar</td>
+<td>Umran Malik</td>
+
+DC
+<td>David Warner(c)</td>
+<td>Philip Salt(w)</td>
+<td>Mitchell Marsh</td>
+<td>Manish Pandey</td>
+<td>Sarfaraz Khan</td>
+<td>Axar Patel</td>
+<td>Aman Hakim Khan</td>
+<td>Ripal Patel</td>
+<td>Anrich Nortje</td>
+<td>Kuldeep Yadav</td>
+<td>Ishant Sharma</td>
+
+GT
+<td>Shubman Gill</td>
+<td>Wriddhiman Saha(w)</td>
+<td>Hardik Pandya(c)</td>
+<td>Dasun Shanaka</td>
+<td>David Miller</td>
+<td>Rahul Tewatia</td>
+<td>Rashid Khan</td>
+<td>Darshan Nalkande</td>
+<td>Mohit Sharma</td>
+<td>Noor Ahmad</td>
+<td>Mohammed Shami</td>
+
+MI
+<td>Ishan Kishan (wk)</td>
+<td>Rohit Sharma (c)</td>
+<td>Cameron Green</td>
+<td>Suryakumar Yadav</td>
+<td>Tim David</td>
+<td>Nehal Wadhera</td>
+<td>Tilak Varma</td>
+<td>Piyush Chawla</td>
+<td>Akash Madhwal</td>
+<td>Kumar Kartikeya</td>
+<td>Chris Jordan</td>
+
+KKR
+<td>N Jagadeesan (wk)</td>
+<td>Jason Roy</td>
+<td>Venkatesh Iyer</td>
+<td>Nitish Rana (c)</td>
+<td>Andre Russell</td>
+<td>Rinku Singh</td>
+<td>Sunil Narine</td>
+<td>David Wiese</td>
+<td>Shardul Thakur</td>
+<td>Umesh Yadav</td>
+<td>Varun Chakaravarthy</td>
+
+
+
+
+
